@@ -1,0 +1,6 @@
+{
+  "name": "Custom PLA",
+  "temperature": 210,
+  "bed_temperature": 60,
+  "retraction": 0.5
+}
